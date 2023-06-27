@@ -7,8 +7,8 @@
     "status_app": "0",
     "link_redirect": "https://",
     "admob_interid": "ca-app-pub-5315174675854123/8899139052",
-    "admob_nativeid": "ca-app-pub-5315174675854123/8946059609",
-    "admob_openid": "ca-app-pub-3940256099942544/3419835294x",
+    "admob_nativeid": "ca-app-pub-5315174675854123/8946059609x",
+    "admob_openid": "ca-app-pub-3940256099942544/3419835294",
     "interval_intertitial": 3,
     "startappid": "207637262",
     "fan_inter": "YOUR_PLACEMENT_ID",
@@ -16,7 +16,7 @@
     "fan_banner": "YOUR_PLACEMENT_ID",
     "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
     "mopub_inter": "24534e1901884e398f1253216226017e",
-    "applovin_banner": "42a67205f4b07e70",
+    "applovin_banner": "42a67205f4b07e70x",
     "applovin_inter": "729e7b30d546aaca",
     "packagename": "com.dono.daftarvaksinonline"
   }
